@@ -12,5 +12,7 @@ int c;
 c = a + b;
 cout << "a + b = " << c << endl;
 c = a - b;
-cout << "a - b = " << c << endl;
+cout << "a - b = " << a - b << endl;
+c = a / b;
+cout << "a / b = " << a / b << endl;
 }
