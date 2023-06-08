@@ -18,4 +18,6 @@ c = a - b;
 cout << "a - b = " << a - b << endl;
 c = a * b;
 cout << "a * b = " << a * b << endl;
+c = a / b;
+cout << "a / b = " << a / b << endl;
 }
